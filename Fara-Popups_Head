@@ -1,3 +1,4 @@
+#cat blacklist.txt | sort -u > fichero_generado
 #50.28.0.84
 adskpak.com
 develc.com
