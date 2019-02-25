@@ -1,6 +1,9 @@
 # Xiaomi
-http://api.ad.intl.xiaomi.com
-http://data.mistat.intl.xiaomi.com
+api.ad.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
+tracking.intl.miui.com
+
 
 # Reddit
 ads-au.onelouder.com
