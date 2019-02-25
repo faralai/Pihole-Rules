@@ -15,6 +15,7 @@ api.account.xiaomi.com
 api.device.xiaomi.net
 api.micloud.xiaomi.net
 statusapi.micloud.xiaomi.net
+api-mifit-cn.huami.com
 
 # Aliexpress
 us.ynuf.aliapp.org
