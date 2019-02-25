@@ -30,6 +30,9 @@ zeus.ad.intl.xiaomi.com
 zeus.ad.xiaomi.com
 
 # Reddit
+ads.reddit.com
+pixel.reddit.com
+
 ads-au.onelouder.com
 e.crashlytics.com
 mads.amazon-adsystem.com
@@ -58,7 +61,14 @@ m.yap.yahoo.com
 data.furry.com
 
 # Google
+ads.google.com
 adservice.google.com
+adservices.google.com
+adwords.google.com
+analytics.google.com
+googleadapis.l.google.com
+gstaticadssl.l.google.com
+
 ssl.google-analytics.com
 googleads.g.doubleclick.net
 app-measurement.com
