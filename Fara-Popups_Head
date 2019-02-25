@@ -1,5 +1,9 @@
 #cat blacklist.txt | sort -u > fichero_generado
 
+#35.172.11.190
+#34.198.58.156
+upgers-armine.com
+
 #50.28.0.84
 adskpak.com
 develc.com
@@ -9,6 +13,11 @@ hitopadxdz.xyz
 
 #74.1117.179.110
 carbian.info
+
+#78.142.29.210
+#79.124.78.120
+www.myzsyljf.com
+myzsyljf.com
 
 #104.18.40.12
 #104.18.41.12
@@ -33,6 +42,14 @@ hoqqzlvwukpo.com
 #2606:4700:30::681c:60e
 uitopadxdy.com
 
+#185.93.1.7
+www.jqgblwjfvox.com
+jqgblwjfvox.com
+
+#185.246.209.12
+www.sivqblzejhx.com
+sivqblzejhx.com
+
 #198.134.112.241
 #198.134.112.242
 #198.134.112.243
@@ -52,5 +69,7 @@ bnjrtdsafo.com
 hoqqzlvwukpo.com
 www.hoqqzlvwukpo.com
 iaatzkkqyv.com
+sivqblzejhx.com
+jqgblwjfvox.com
 
 #---------------------------------------------------------------------------------
