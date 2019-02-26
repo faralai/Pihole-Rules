@@ -18,6 +18,7 @@ statusapi.micloud.xiaomi.net
 api-mifit-cn.huami.com
 bbs2.appmifile.com
 bigota.d.miui.com
+app.market.xiaomi.com
 
 # Aliexpress
 us.ynuf.aliapp.org
@@ -192,6 +193,8 @@ tawk.to
 va.tawk.to
 static-v.tawk.to
 
+#Wordreference
+wordreference.com
 ------------------------------------------------------------------------------------
 
 0.client-channel.google.com
