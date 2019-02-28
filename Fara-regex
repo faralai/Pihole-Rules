@@ -19,3 +19,4 @@
 /:rd+w+sn-.*.googlevideo.com:/192.168.1.5
 .*\.rsc\.cdn77\.org
 .*mmstat\.com
+^piwik?[-.]
