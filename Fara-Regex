@@ -14,3 +14,11 @@
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
+/:rd+w+sn-.*.googlevideo.com:/192.168.1.5
+.*mmstat\.com
+^piwik?[-.]
+(^|\.)adsco\.re$
+(^|\.)smartadserver\.com$
+\w*\.bid$
+\w*\.cdn77\.com$
+.*\.rsc\.cdn77\.org
