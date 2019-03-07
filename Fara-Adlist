@@ -17,6 +17,17 @@ https://hosts-file.net/ad_servers.txt
 #Test Oisd.nl
 https://dbl.oisd.nl/
 
+#Blocklist.site
+https://blocklist.site/app/dl/ads
+https://blocklist.site/app/dl/crypto
+https://blocklist.site/app/dl/fraud
+https://blocklist.site/app/dl/malware
+https://blocklist.site/app/dl/phishing
+https://blocklist.site/app/dl/ransomware
+https://blocklist.site/app/dl/redirect
+https://blocklist.site/app/dl/scam
+https://blocklist.site/app/dl/tracking
+
 #Ads
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
