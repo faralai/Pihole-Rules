@@ -213,11 +213,17 @@ des.gbtcdn.com
 #Netflix
 nflxvideo.net
 
-cdn.ravenjs.com
-track.adform.net
+#Spotify
 open.spotify.com
 weblb-wg.dual-gslb.spotify.com
+
+#Volotea
+a.tiles.mapbox.com
+
+cdn.ravenjs.com
+track.adform.net
 apiservices.krxd.net
+
 #------------------------------------------------------------------------------------
 
 0.client-channel.google.com
