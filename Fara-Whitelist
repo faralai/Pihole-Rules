@@ -1,6 +1,7 @@
 # curl   -H 'Authorization: token 6b3536b5680800974ffe8a288a87ebde9a4c4c9b' https://raw.githubusercontent.com/faralai/Pihole-Rules-Internal/master/Fara-Whitelist -o Fara-Whitelist
 
 # OXMF Ofertas
+googleadapis.l.google.com
 tc.tradetracker.net
 click.aliexpress.com
 s.click.aliexpress.com
