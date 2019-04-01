@@ -93,3 +93,6 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/RW_DOMBL/hosts
 #Antipopads
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads/hosts
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
+
+#Mozilla
+https://github.com/jmdugan/blocklists/blob/master/corporations/mozilla/all.txt
