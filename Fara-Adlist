@@ -17,6 +17,9 @@ https://hosts-file.net/ad_servers.txt
 # TV Samsung
 https://raw.githubusercontent.com/nilsel/pi-hole-conf/master/blocklist.txt
 
+# Android 
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+
 #Test Oisd.nl
 https://dbl.oisd.nl/
 
