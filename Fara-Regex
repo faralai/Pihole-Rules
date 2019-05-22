@@ -23,3 +23,4 @@
 \w*\.cdn77\.com$
 .*\.rsc\.cdn77\.org
 .*\.g00\..*
+(.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
