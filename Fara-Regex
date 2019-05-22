@@ -24,3 +24,10 @@
 .*\.rsc\.cdn77\.org
 .*\.g00\..*
 (.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
+((^)|(.))metric.
+((^)|(.))telemetry.
+((^)|(.))analytic.
+((^)|(.))adchoice.
+((^)|(.))adsdk.
+((^)|(.))adserv.
+((^)|(.))tracking.
