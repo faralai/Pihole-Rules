@@ -17,6 +17,10 @@ https://hosts-file.net/ad_servers.txt
 #Tracking
 https://raw.githubusercontent.com/evpne/socialblocklists/master/Tracking/trackingblocklist.txt
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/lightswitch05_hosts_ads-and-tracking-extended/9f7fde27664046ee08996c5df787883e102c50ba/output/domains/INACTIVE/list
+
+#Publicidad Apps
+https://raw.githubusercontent.com/evpne/socialblocklists/master/MobileAppsAds/appadsblocklist.txt
+
 # TV Samsung
 # https://raw.githubusercontent.com/nilsel/pi-hole-conf/master/blocklist.txt
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
