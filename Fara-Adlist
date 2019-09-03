@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/lightswitch05_hosts_a
 #Publicidad Apps
 https://raw.githubusercontent.com/evpne/socialblocklists/master/MobileAppsAds/appadsblocklist.txt
 
+#Windows Telemetry 
+https://raw.githubusercontent.com/evpne/socialblocklists/master/Windows/windowstelemetryblocklist.txt
+
 # TV Samsung
 # https://raw.githubusercontent.com/nilsel/pi-hole-conf/master/blocklist.txt
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
