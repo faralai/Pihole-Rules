@@ -14,6 +14,9 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
 
+#Tracking
+https://raw.githubusercontent.com/evpne/socialblocklists/master/Tracking/trackingblocklist.txt
+
 # TV Samsung
 # https://raw.githubusercontent.com/nilsel/pi-hole-conf/master/blocklist.txt
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
