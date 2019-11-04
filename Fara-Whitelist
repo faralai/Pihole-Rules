@@ -1,4 +1,5 @@
 # Aliexpress
+gm.mmstat.com
 
 # Amazon 
 amazon.co.uk
@@ -106,22 +107,51 @@ www.googletagservices.com
 www.play.googleapis.com
 www.storage.googleapis.com
 www-googletagmanager.l.google.com
-youtu.be
 youtube.com
 youtube-dl.org
 youtube-nocookie.com
 youtube-ui.l.google.com
 ytimg-edge-static.l.google.com
+csi.gstatic.com
+encrypted-tbn0.gstatic.com
+fonts.gstatic.com
+gstatic.com
+ssl.gstatic.com
+www.gstatic.com
+geo3.ggpht.com
+yt3.ggpht.com
+s.youtube.com
+s2.youtube.com
+www.youtube-nocookie.com
+i.ytimg.com
+i1.ytimg.com
+s.ytimg.com
+
 
 # Link Shortners
 amzn.to
+bit.ly
+www.bit.ly
+ow.ly
+goo.gl
+
+youtu.be
+t.me
 
 # Links de Telegram
+telegra.ph
 
 # Microsoft 
 answers.microsoft.com
 
-# Netflix
+# Netflix 
+ipv4-c002-mad001-telefonicaes-isp.1.oca.nflxvideo.net
+ipv4-c003-mad002-telefonicaes-isp.1.oca.nflxvideo.net
+ipv4-c060-mad001-ix.1.oca.nflxvideo.net
+nflxvideo.net
+www.netflix.com
+netflix.com
+
 
 # Office
 
@@ -132,6 +162,13 @@ answers.microsoft.com
 # Skype
 
 # Spotify
+audio4-ak.spotify.com.edgesuite.net
+audio-fac.spotify.com
+open.spotify.com
+spclient.wg.spotify.com
+spotify.com
+weblb-wg.dual-gslb.spotify.com
+www.spotify.com
 
 # UMH.es
 
@@ -358,8 +395,7 @@ assets.nflxext.com
 assets.ubuntu.com
 assets.zendesk.com
 attestation.xboxlive.com
-audio4-ak.spotify.com.edgesuite.net
-audio-fac.spotify.com
+
 auth.gfx.ms
 ax.phobos.apple.com.edgesuite.net
 bbc.com
@@ -369,7 +405,6 @@ beta.api.getpocket.com
 betanews.com
 bgr.com
 bing.com
-bit.ly
 bitbucket.org
 bitbucket-marketing-cdn.atlassian.com
 bitly.com
@@ -460,7 +495,6 @@ cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 crisp.chat
 crunchbase.com
-csi.gstatic.com
 csp.medium.com
 css.redblue.de
 csscdn.redblue.de
@@ -510,7 +544,6 @@ email.appsumo.com
 email.uber.com
 embed.tawk.to
 en.w3schools.com
-encrypted-tbn0.gstatic.com
 enews.techrepublic.com
 es.digitaltrends.com
 event.mi.com
@@ -527,7 +560,6 @@ files.overclock.net
 filters.adtidy.org
 financialexpress.com
 flipkart.com
-fonts.gstatic.com
 forms.convertkit.com
 forums.sonarr.tv
 fossbytes.com
@@ -536,7 +568,6 @@ ftp.chocolatey.org
 ftp.hp.com
 g.co
 g.live.com
-geo3.ggpht.com
 geo-prod.do.dsp.mp.microsoft.com
 getpocket.com
 giphy.com
@@ -552,11 +583,9 @@ glyph.medium.com
 gm.mmstat.com
 go.microsoft.com
 godaddy.com
-goo.gl
 goodreads.com
 
 gravatar.com
-gstatic.com
 guce.yahoo.com
 hackaday.com
 hello.myfonts.net
@@ -578,10 +607,8 @@ hubspot.com
 i.i.cbsi.com
 i.imgur.com
 i.s-microsoft.com
-i.ytimg.com
 i0.wp.com
 i1.social.s-msft.com
-i1.ytimg.com
 i-technet.sec.s-msft.com
 icloud.com
 icq.com
@@ -608,9 +635,7 @@ inference.location.live.net
 intercom.io
 ipinfo.io
 ipleak.net
-ipv4-c002-mad001-telefonicaes-isp.1.oca.nflxvideo.net
-ipv4-c003-mad002-telefonicaes-isp.1.oca.nflxvideo.net
-ipv4-c060-mad001-ix.1.oca.nflxvideo.net
+
 itknowledgeexchange.techtarget.com
 itpapers.techrepublic.com
 j.mp
@@ -693,12 +718,10 @@ namecheap.com
 nationalgeographic.com
 ndtv.com
 netdna.bootstrapcdn.com
-netflix.com
 netpnb.com
 newsletters.nationalgeographic.com
 nexus.ensighten.com
 nexusrules.officeapps.live.com
-nflxvideo.net
 niantic.helpshift.com
 nine.plugins.plexapp.com
 nls.techrepublic.com
@@ -725,12 +748,10 @@ om.cbsi.com
 onedrive.live.com
 onesignal.com
 onlinecourses.nptel.ac.in
-open.spotify.com
 openapi.samsung.com
 outlook.com
 outlook.live.com
 outlook.office365.com
-ow.ly
 package.chocolatey.org
 packages.chocolatey.org
 partner.microsoft.com
@@ -786,11 +807,8 @@ s.shopify.com
 s.w.org
 s.w-x.co
 s.yimg.com
-s.youtube.com
-s.ytimg.com
 s0.wp.com
 s1.wp.com
-s2.youtube.com
 s2k7tnzlhrpw.statuspage.io
 
 s-msft.com
@@ -824,10 +842,7 @@ snapdeal.com
 someonewhocares.org
 space.com
 spaceflightnow.com
-spclient.wg.spotify.com
-spotify.com
 ssl.bblck.me
-ssl.gstatic.com
 ssl.p.jwpcdn.com
 sslbl.abuse.ch
 stackexchange.com
@@ -852,7 +867,6 @@ surveymonkey.com
 synology.com
 sysctl.org
 t.co
-t.me
 t.paypal.com
 t.purch.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -864,7 +878,6 @@ techradar.com
 techrepublic.com
 techtarget.com
 tedcdn.com
-telegra.ph
 text.getpocket.com
 textshot.medium.com
 the.earth.li
@@ -921,7 +934,6 @@ wccftech.com
 weather.com
 web.archive.org
 webhostingtalk.com
-weblb-wg.dual-gslb.spotify.com
 whitepapers.techrepublic.com
 widget-cdn.rpxnow.com
 wikipedia.org
@@ -947,7 +959,6 @@ www.askvg.com
 www.awin1.com
 www.betanews.com
 www.bing.com
-www.bit.ly
 www.bleepingcomputer.com
 www.blog.medium.com
 www.blog.techrepublic.com
@@ -995,7 +1006,6 @@ www.glyph.medium.com
 www.go.microsoft.com
 www.goodreads.com
 
-www.gstatic.com
 www.help.medium.com
 www.home.bt.com
 www.hosts-file.net
@@ -1032,7 +1042,6 @@ www.msn.com
 www.mystart.com
 www.namecheap.com
 www.nationalgeographic.com
-www.netflix.com
 www.nls.techrepublic.com
 www.no-ip.com
 www.noteworthy.medium.com
@@ -1062,7 +1071,6 @@ www.smashingmagazine.com
 www.snapdeal.com
 www.solaredge.com
 www.space.com
-www.spotify.com
 www.squidblacklist.org
 www.static.medium.com
 www.supersonido.es
@@ -1091,7 +1099,6 @@ www.wordreference.com
 www.wsj.com
 www.xboxlive.com
 www.yahoo.com
-www.youtube-nocookie.com
 www.zenaps.com
 x.kinja-static.com
 xbox.ipv6.microsoft.com
@@ -1103,7 +1110,6 @@ xsts.auth.xboxlive.com
 yahoo.com
 ynuf.alipay.com
 
-yt3.ggpht.com
 zapier.com
 zdnet.com
 zenaps.com
