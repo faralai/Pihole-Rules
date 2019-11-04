@@ -42,7 +42,6 @@ api.launcher.intl.miui.com
 api.sec.intl.miui.com
 update.avlyun.sec.miui.com
 update.miui.com
-
 us.micardapi.micloud.xiaomi.net
 api-mifit-us.huami.com
 resolver.msg.xiaomi.net
@@ -96,13 +95,7 @@ xiaomi.com
 xiaomi.net
 
 # Aliexpress
-us.ynuf.aliapp.org
-ae01.alicdn.com
-ynuf.aliapp.org
-track.aliexpress.com
-login.aliexpress.com
-click.aliexpress.com
-s.click.aliexpress.com
+gm.mmstat.com
 
 # Google 
 android.clients.google.com
