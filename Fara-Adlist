@@ -19,6 +19,7 @@ http://gogs.faralai.net/faralai/Pihole-Rules/raw/master/trackers.txt
 https://raw.githubusercontent.com/evpne/socialblocklists/master/Tracking/trackingblocklist.txt
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/lightswitch05_hosts_ads-and-tracking-extended/9f7fde27664046ee08996c5df787883e102c50ba/output/domains/INACTIVE/list
 https://raw.githubusercontent.com/EnergizedProtection/mirror/fad42b54bd9fda3ec7ba90616f48a42228d11fcb/active/filter/adguard-spyware-firstparty.txt
+https://blocklist.site/app/dl/tracking
 
 #Publicidad Apps
 https://raw.githubusercontent.com/evpne/socialblocklists/master/MobileAppsAds/appadsblocklist.txt
@@ -65,6 +66,7 @@ https://raw.githubusercontent.com/evpne/socialblocklists/master/Windows/windowst
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 # https://v.firebog.net/hosts/Airelle-trc.txt
+
 
 #Malicious
 # https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
