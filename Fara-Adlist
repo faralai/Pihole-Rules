@@ -5,6 +5,9 @@ https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Blocklist
 https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Popups_Head
 https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Popups
 
+#Faralai Trackers
+http://gogs.faralai.net/faralai/Pihole-Rules/raw/master/Fara-Trackers
+
 #Por defecto
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://mirror1.malwaredomains.com/files/justdomains
