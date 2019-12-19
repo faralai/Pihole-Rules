@@ -32,10 +32,10 @@ https://raw.githubusercontent.com/evpne/socialblocklists/master/Windows/windowst
 
 # TV Samsung
 # https://raw.githubusercontent.com/nilsel/pi-hole-conf/master/blocklist.txt
-# https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 
 # Android 
-# https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 
 #Test Oisd.nl
 # https://dbl.oisd.nl/
